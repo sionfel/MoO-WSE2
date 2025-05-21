@@ -1,0 +1,9 @@
+-- Race Name: Terran
+-- Description: No description
+
+{
+  "_version":1,
+  "name":"Terran",
+  "traits":["SpecialPoorHomeWorld","SpecialCharismatic","ShipAttackGood","GovernmentDictator","GroundCombatGood","SpecialWarlord"],
+  "leader":"none"
+}

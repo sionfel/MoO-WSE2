@@ -1,0 +1,9 @@
+-- Race Name: Bulrathi
+-- Description: No description
+
+{
+  "_version":1,
+  "name":"Bulrathi",
+  "traits":["ShipAttackGood","GovernmentDictator","GroundCombatGood","SpecialHighGWorld"],
+  "leader":"none"
+}

@@ -1,0 +1,9 @@
+-- Race Name: Darlock
+-- Description: No description
+
+{
+  "_version":1,
+  "name":"Darlock",
+  "traits":["SpyingGreat","GovernmentDictator","SpecialStealthyShips"],
+  "leader":"none"
+}

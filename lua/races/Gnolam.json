@@ -1,0 +1,9 @@
+-- Race Name: Gnolam
+-- Description: No description
+
+{
+  "_version":1,
+  "name":"Gnolam",
+  "traits":["EconomicGreat","SpecialTraders","SpecialLowGWorld","GovernmentDictator","SpecialLucky"],
+  "leader":"none"
+}

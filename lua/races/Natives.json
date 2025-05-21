@@ -1,0 +1,11 @@
+-- Race Name: Natives
+-- Description: No description
+
+{
+  "leader":"none",
+  "is_playable":false,
+  "traits":["FarmingGreat"],
+  "_version":1,
+  "name":"Natives",
+  "is_custom":false
+}

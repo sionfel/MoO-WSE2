@@ -1,0 +1,9 @@
+pt_none = 0
+pt_rescued_prisoners = 1
+pt_enemy = 2
+pt_hero_party = 3
+pt_system = 4
+pt_nebula = 5
+pt_fleet = 6
+pt_pirate_fleet = 7
+pt_space_creature = 8

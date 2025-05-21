@@ -1,0 +1,9 @@
+-- Race Name: Mrrshan
+-- Description: No description
+
+{
+  "_version":1,
+  "name":"Mrrshan",
+  "traits":["SpecialWarlord","SpecialRichHomeWorld","GovernmentDictator","ShipAttackGreat"],
+  "leader":"none"
+}

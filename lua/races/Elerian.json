@@ -1,0 +1,9 @@
+-- Race Name: Elerian
+-- Description: No description
+
+{
+  "_version":1,
+  "name":"Elerian",
+  "traits":["SpecialOmniscient","ShipDefenseGood","GovernmentFeudal","ShipAttackGood","SpecialTelepathic"],
+  "leader":"none"
+}

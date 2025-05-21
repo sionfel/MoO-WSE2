@@ -1,0 +1,9 @@
+-- Race Name: Meklar
+-- Description: No description
+
+{
+  "_version":1,
+  "name":"Meklar",
+  "traits":["IndustryGreat","SpecialCybernetic","GovernmentDictator"],
+  "leader":"none"
+}

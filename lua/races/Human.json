@@ -1,0 +1,9 @@
+-- Race Name: Human
+-- Description: No description
+
+{
+  "_version":1,
+  "name":"Human",
+  "traits":["GovernmentDemocracy","SpecialCharismatic"],
+  "leader":"none"
+}

@@ -1,0 +1,9 @@
+-- Race Name: Silicoid
+-- Description: No description
+
+{
+  "_version":1,
+  "name":"Silicoid",
+  "traits":["SpecialTolerant","PopulationGrowthBad","SpecialRepulsive","GovernmentDictator","SpecialLithovore"],
+  "leader":"none"
+}

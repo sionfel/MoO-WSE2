@@ -1,0 +1,9 @@
+-- Race Name: Klackon
+-- Description: No description
+
+{
+  "_version":1,
+  "name":"Klackon",
+  "traits":["FarmingGood","SpecialUncreative","GovernmentUnification","SpecialLargeHomeWorld"],
+  "leader":"none"
+}

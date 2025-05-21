@@ -1,0 +1,5 @@
+lua/*.code-workspace
+lua/additional_savedata/**
+lua/logs/**
+lua/.vscode/
+lua/msfiles/

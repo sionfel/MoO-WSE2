@@ -1,0 +1,11 @@
+-- Race Name: Alkari
+-- Description: The Alkari are an avian race descended from great flying reptiles. Reared as fliers, Alkari pilots have an almost instinctive grasp of the dynamics of three-dimensional motion. 
+-- As a result, Alkari ships gain a 40% defensive bonus in space combat. Long ago, the Alkari home world was once a colony of the powerful Orion empire. The ancient artifacts left from that time give their researchers an advantage. 
+-- The Alkari government is a Dictatorship.
+
+{
+  "_version":1,
+  "name":"Alkari",
+  "traits":["ShipDefenseGreat","GovernmentDictator","SpecialArtifactsWorld"],
+  "leader":"none"
+}

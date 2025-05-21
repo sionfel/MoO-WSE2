@@ -1,0 +1,9 @@
+-- Race Name: Sakkra
+-- Description: No description
+
+{
+  "_version":1,
+  "name":"Sakkra",
+  "traits":["FarmingGood","PopulationGrowthGreat","GovernmentFeudal","SpecialLargeHomeWorld","SpyingBad","SpecialSubterranean"],
+  "leader":"none"
+}

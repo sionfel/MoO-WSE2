@@ -1,0 +1,9 @@
+-- Race Name: Psilon
+-- Description: No description
+
+{
+  "_version":1,
+  "name":"Psilon",
+  "traits":["ResearchGreat","SpecialLowGWorld","SpecialLargeHomeWorld","GovernmentDictator","SpecialCreative"],
+  "leader":"none"
+}
